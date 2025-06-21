@@ -1,15 +1,33 @@
 # 📱 Dump Firmware: Device Unisoc Only
 
-Repository ini berisi dump firmware dari perangkat **Itel P55 NFC** dengan SoC **Unisoc**, hasil ekstrak dari file `.pac`.
+Repository ini berisi dump firmware dari perangkat yang menggunakan chipset `UniSOC`.
 
 ## 📦 Isi Firmware Dump
 
 | File Name                       | Download Link                                                                 |
 |--------------------------------|-------------------------------------------------------------------------------|
-| `Dump Firmware Itel A666LN(P55 4G NFC)`                     | [Download](Belom Tersedia)                     |
-| `Dump Firmware Itel A666L(P55)`                     | [Download](Belom Tersedia)                     |
-| `Dump Firmware Itel S681LN(S23+)`                     | [Download](Belom Tersedia)                     |
-| `Dump Firmware Itel S665L(S23)`                     | [Download](Belom Tersedia)                     |
+| Brand Transsion Itel, Infinix, & Techno         |                                                                               |
+| Brand Transsion Itel          |                                                                               |
+| `Dump Firmware Itel P55 4G NFC`                     | [Download](Belom Tersedia)                     |
+| `Dump Firmware Itel P55`                     | [Download](Belom Tersedia)                     |
+| `Dump Firmware Itel S23+`                     | [Download](Belom Tersedia)                     |
+| `Dump Firmware Itel S23`                     | [Download](Belom Tersedia)                     |
+| `Dump Firmware Itel P65`                     | [Download](Belom Tersedia)                     |
+| `Dump Firmware Itel S25`                     | [Download](Belom Tersedia)                     |
+| `Dump Firmware Itel S25 Ultra`                     | [Download](Belom Tersedia)                     |
+| `Dump Firmware Itel A70`                     | [Download](Belom Tersedia)                     |
+| `Dump Firmware Itel A60s`                     | [Download](Belom Tersedia)                     |
+| Brand Transsion Infinix           |                                                                               |
+| `Dump Firmware Infinix Smart 10 HD`                     | [Download](Belom Tersedia)                     |
+| `Dump Firmware Infinix Smart 8`                     | [Download](Belom Tersedia)                     |
+| `Dump Firmware Infinix Hot 30i`                     | [Download](Belom Tersedia)                     |
+| `Dump Firmware Infinix Hot 40i`                     | [Download](Belom Tersedia)                     |
+| Brand Transsion Techno           |                                                                               |
+| `Dump Firmware Techno Spark Go 1`                     | [Download](Belom Tersedia)                     |
+| Brand Realme           |                                                                               |
+| `Dump Firmware Realme Note 50`                     | [Download](Belom Tersedia)                     |
+| `Dump Firmware Realme Note 60/C61`                     | [Download](Belom Tersedia)                     |
+| `Dump Firmware Realme Note 60x`                     | [Download](Belom Tersedia)                     |
 
 
 > 📥 Bagi Yang Mau Donwload Firmware .zip/.pac Langsung Bisa Kunjungin Website Ini [Needrom](https://www.needrom.com/).
