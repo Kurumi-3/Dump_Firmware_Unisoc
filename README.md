@@ -12,7 +12,7 @@ Repository ini berisi dump firmware dari perangkat **Itel P55 NFC** dengan SoC *
 | `Dump Firmware Itel S665L(S23)`                     | [Download](Belom Tersedia)                     |
 
 
-> 📥 Bagi Yang Mau Donwload Firwamre .zip Bisa Kunjungin Website Ini [Halaman Releases](https://www.needrom.com/).
+> 📥 Bagi Yang Mau Donwload Firmware .zip/.pac Langsung Bisa Kunjungin Website Ini [Needrom](https://www.needrom.com/).
 
 ---
 
