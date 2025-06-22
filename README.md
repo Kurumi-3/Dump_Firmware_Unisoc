@@ -10,8 +10,8 @@ Repository ini berisi dump firmware dari perangkat yang menggunakan chipset `Uni
 | Brand Transsion Itel          |                                                                               |
 | `Dump Firmware Itel P55 4G NFC`                     | [Download](https://github.com/Kurumi-3/Dump_Firmware_Unisoc/releases/tag/Dump_Fw_P55_4G_NFC)                     |
 | `Dump Firmware Itel P55`                     | [Download](https://github.com/Kurumi-3/Dump_Firmware_Unisoc/releases/tag/Dump_Fw_Itel_P55)                     |
-| `Dump Firmware Itel S23+`                     | [Download](Belom Tersedia)                     |
-| `Dump Firmware Itel S23`                     | [Download](Belom Tersedia)                     |
+| `Dump Firmware Itel S23+`                     | [Download](https://github.com/Kurumi-3/Dump_Firmware_Unisoc/releases/tag/Dump_Fw_Itel_S23%2B)                     |
+| `Dump Firmware Itel S23`                     | [Download](https://github.com/Kurumi-3/Dump_Firmware_Unisoc/releases/tag/Dump_Fw_Itel_S23)                     |
 | `Dump Firmware Itel P65`                     | [Download](Belom Tersedia)                     |
 | `Dump Firmware Itel S25`                     | [Download](Belom Tersedia)                     |
 | `Dump Firmware Itel S25 Ultra`                     | [Download](Belom Tersedia)                     |
