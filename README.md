@@ -13,7 +13,7 @@ Repository ini berisi dump firmware dari perangkat yang menggunakan chipset `Uni
 | `Dump Firmware Itel S23+`                     | [Download](https://github.com/Kurumi-3/Dump_Firmware_Unisoc/releases/tag/Dump_Fw_Itel_S23%2B)                     |
 | `Dump Firmware Itel S23`                     | [Download](https://github.com/Kurumi-3/Dump_Firmware_Unisoc/releases/tag/Dump_Fw_Itel_S23)                     |
 | `Dump Firmware Itel P65`                     | [Download](https://github.com/Kurumi-3/Dump_Firmware_Unisoc/releases/tag/Dump_Fw_Itel_P65)                     |
-| `Dump Firmware Itel S25`                     | [Download](Belom Tersedia)                     |
+| `Dump Firmware Itel S25`                     | [Download](https://github.com/Kurumi-3/Dump_Firmware_Unisoc/releases/tag/Dump_Fw_Itel_S25)                     |
 | `Dump Firmware Itel S25 Ultra`                     | [Download](Belom Tersedia)                     |
 | `Dump Firmware Itel A70`                     | [Download](Belom Tersedia)                     |
 | `Dump Firmware Itel A60s`                     | [Download](Belom Tersedia)                     |
